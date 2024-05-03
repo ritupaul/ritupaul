@@ -1,5 +1,5 @@
 
-### Hi, I'm <Ritu Paul>! 👋
+### Hi, I'm Ritu Paul! 👋
 
 I am a dedicated and enthusiastic professional with a background in Information Technology (IT) and a passion for innovation. With a Bachelor's degree in Information Technology from the University of Kerala, I have a solid foundation in computer science principles and programming. I’m currently working on a RAG pipeline to avoid hallucinations by Open AI chatGPT, Anthropic Claude 3, Groq Ilama3 for a company handbook document.
 
