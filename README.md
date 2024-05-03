@@ -9,7 +9,7 @@ I am a dedicated and enthusiastic professional with a background in Information 
 
 Passionate about continuous learning and professional development, I am committed to staying updated with the latest trends and advancements in the IT industry. I am proactive in seeking out opportunities for growth and are always eager to expand my knowledge and skills.
 
-## My Articles
+## My Projects
 - [(https://ritusanjo.wixsite.com/my-portfolio/portfolio-collections/my-portfolio)]
 
 
